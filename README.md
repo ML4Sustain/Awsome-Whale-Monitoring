@@ -3,12 +3,12 @@
 
 ## Global Distribution of Cetacean Species Reported in Monitoring Studies
 <img width="5664" height="2369" alt="distribution" src="https://github.com/user-attachments/assets/843cbca7-92c4-4077-b556-520337f40279" />
+
 A total of **83 observation sites** covering **17 cetacean species** have been documented across existing studies.
 
 ## Methodological Approaches in Cetacean Monitoring
 <img width="2083" height="1262" alt="image" src="https://github.com/user-attachments/assets/d5c5dacd-f7c9-4e8c-bbbb-179c99a9f514" />
 
-27 papers used deep learning and 10 use other methods.
 Among the reviewed publications, **27 studies employed deep learning approaches**, while **10 studies adopted alternative methods**.
 
 
